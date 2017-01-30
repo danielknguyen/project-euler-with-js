@@ -1,3 +1,3 @@
 # project-euler-with-js
-Solving problems through <br/> 
+Solving problem #1 from <br/> 
 https://projecteuler.net/archives
